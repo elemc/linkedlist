@@ -2,8 +2,9 @@ package linkedlist_test
 
 import (
 	"fmt"
-	linkedlist "linked-list"
 	"testing"
+
+	"github.com/elemc/linkedlist"
 )
 
 func TestLinkedList_Reverse(t *testing.T) {
